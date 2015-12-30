@@ -1,6 +1,3 @@
-# 读书计划
-书目 | 开始时间 | 结束时间
----- | ---- | ----
-web安全 | 12月30号 | 1月10号
-跨终端web | 1月11号 | 1月20号
- 
+#制作一本属于自己的书籍或是读书计划
+
+[gitbook制作书籍的方法]（http://www.chengweiyang.cn/gitbook/gitbook.com/edit.html）
